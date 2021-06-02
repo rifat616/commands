@@ -1,0 +1,42 @@
+What do you need?
+Termux
+If u are using in liux os or google cloud use sudo at the begging of every code(not every code)
+
+Commands
+
+Download Osintgram
+
+$git clone https://github.com/Datalux/Osintgram.git
+
+Make sure you have Python and pip3 Installed
+
+
+$apt install python
+
+$apt install python-pip Install requirements 
+
+(make sure you are in the Osintgram directory)
+
+$pip install -r requirements.txt
+
+
+Create Login info 
+
+$make setup
+
+Now u must type ur fake insta acc username and then the password
+
+Start Hacking (make sure you are back in the Osintgram directory)
+
+$python main.py instagram_target
+
+$stories
+
+$ctrl+c
+
+$ cd output
+
+$xdg-open (the one which u need to open just damn paste it here and remove the brackets)
+
+
+Done
