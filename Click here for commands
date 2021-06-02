@@ -6,7 +6,7 @@ Commands
 
 Download Osintgram
 
-$git clone https://github.com/Datalux/Osintgram.git
+$git clone https://github.com/Datalux/osintgram.git
 
 Make sure you have Python and pip3 Installed
 
@@ -15,6 +15,7 @@ $apt install python
 
 $apt install python-pip Install requirements 
 
+$cd osintgram
 (make sure you are in the Osintgram directory)
 
 $pip install -r requirements.txt
